@@ -11,4 +11,4 @@ function autotext(){
     }
 };
 
-setInterval(autotext,200);
+setInterval(autotext,150);
